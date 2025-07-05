@@ -5,6 +5,7 @@ import React from 'react'
 import type { Header as HeaderType } from '@/payload-types'
 
 import { CMSLink } from '@/components/Link'
+import { Cart } from '@/components/Cart'
 import Link from 'next/link'
 import { SearchIcon } from 'lucide-react'
 
